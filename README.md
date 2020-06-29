@@ -1,9 +1,9 @@
 
 # Review of C Plus Plus
 
-## Introduction
-
 ## Menu
 
-* 绪论
+* 基础知识
+
+* 重点纲要
   
